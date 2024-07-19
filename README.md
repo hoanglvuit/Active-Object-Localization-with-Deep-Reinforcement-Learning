@@ -1,5 +1,8 @@
  # Using DQN on Computer Vision 
  ![ex0](https://raw.githubusercontent.com/hoanglvuit/Active-Object-Localization-with-Deep-Reinforcement-Learning/main/realmedia/movie_0.gif)
+ ![ex1](https://github.com/hoanglvuit/Active-Object-Localization-with-Deep-Reinforcement-Learning/blob/main/realmedia/movie_1.gif?raw=true) 
+ ![ex2](https://github.com/hoanglvuit/Active-Object-Localization-with-Deep-Reinforcement-Learning/blob/main/realmedia/movie_14.gif?raw=true)
+ ![ex3](https://github.com/hoanglvuit/Active-Object-Localization-with-Deep-Reinforcement-Learning/blob/main/realmedia/movie_8.gif?raw=true)
  ## Abstract 
 - Active-Object-Localization là một trong những problem lâu đời và nền tảng của việc áp dụng Reinforcement Learning vào Computer Vision.
 - Một cách tiếp cận cơ bản đối với những bài toán object localization (object detection):
@@ -16,7 +19,7 @@
 - Sử dụng giống file run_onkaggle
 - Hoặc clone về local rồi push lên github -> clone về kaggle
 - Nên điều chỉnh file training và visualize nếu gặp lỗi.
-- Tham khảo original tại: [lz](https://github.com/rayanramoul/Active-Object-Localization-Deep-Reinforcement-Learning/tree/master)
+- Tham khảo original tại: [rayanramoul](https://github.com/rayanramoul/Active-Object-Localization-Deep-Reinforcement-Learning/tree/master)
 ## Conclusion
 - Good look
 - If it's helpful, please give me the star :D 
