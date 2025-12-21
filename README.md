@@ -2,6 +2,17 @@
 
 Dự án triển khai hệ thống **Active Localization** sử dụng Deep Q-Network (DQN) để định vị đối tượng trong ảnh thông qua Reinforcement Learning.
 
+ ![ex0](https://raw.githubusercontent.com/hoanglvuit/Active-Object-Localization-with-Deep-Reinforcement-Learning/main/realmedia/movie_0.gif)
+
+
+ ![ex1](https://github.com/hoanglvuit/Active-Object-Localization-with-Deep-Reinforcement-Learning/blob/main/realmedia/movie_1.gif?raw=true) 
+
+
+ ![ex2](https://github.com/hoanglvuit/Active-Object-Localization-with-Deep-Reinforcement-Learning/blob/main/realmedia/movie_14.gif?raw=true)
+
+
+ ![ex3](https://github.com/hoanglvuit/Active-Object-Localization-with-Deep-Reinforcement-Learning/blob/main/realmedia/movie_8.gif?raw=true)
+
 ## Bài toán
 
 **Object Localization**: Tìm vị trí chính xác của một đối tượng trong ảnh (trả về bounding box).
